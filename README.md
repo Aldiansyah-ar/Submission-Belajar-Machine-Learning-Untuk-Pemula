@@ -10,19 +10,19 @@
 
 ### Memiliki Dua Rak Buku
 
-* Bookshelf Apps memiliki 2 Rak buku, “Belum selesai dibaca” dan “Selesai dibaca”.
+* Bookshelf Apps memiliki 2 Rak buku, “Belum Selesai Dibaca” dan “Selesai Dibaca”.
 
-### Dapat Memindahkan Buku antar Rak
+### Dapat Memindahkan Buku Antar Rak
 
-* Buku yang ditampilkan pada rak, baik itu "Belum selesai dibaca" maupun "Selesai dibaca" dapat dipindahkan di antara keduanya.
+* Buku yang ditampilkan pada rak, "Belum Selesai Dibaca" ataupun "Selesai Dibaca" dapat dipindahkan di antara keduanya.
 
 ### Dapat Menghapus Data Buku
 
-* Buku yang ditampilkan pada rak, baik itu "Belum selesai dibaca" maupun "Selesai dibaca" dapat dihapus.
+* Buku yang ditampilkan pada rak, "Belum Selesai Dibaca" ataupun "Selesai Dibaca" dapat dihapus.
 
 ### Menyimpan Data Buku dengan web storage
 
-* Data buku yang ditampilkan pada rak, baik itu "Belum selesai dibaca" maupun "Selesai dibaca" dapat bertahan walaupun halaman web ditutup.
+* Buku yang ditampilkan pada rak, "Belum Selesai Dibaca" ataupun "Selesai Dibaca" tidak terhapus walaupun halaman web ditutup.
 
 <br clear="both">
 
